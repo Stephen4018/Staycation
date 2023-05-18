@@ -1,0 +1,39 @@
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Infrastructure\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.deps.json
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Infrastructure\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Infrastructure\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.pdb
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Infrastructure\bin\Debug\netcoreapp3.1\Staycation.Domian.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Infrastructure\bin\Debug\netcoreapp3.1\Staycation.Domian.pdb
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.csproj.CopyComplete
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.pdb
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Infrastructure\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.deps.json
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Infrastructure\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.dll
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Infrastructure\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.pdb
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Infrastructure\bin\Debug\netcoreapp3.1\Staycation.Domian.dll
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Infrastructure\bin\Debug\netcoreapp3.1\Staycation.Domian.pdb
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.csproj.CopyComplete
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.dll
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.pdb
+C:\Users\Decadev\Desktop\Staycation\Staycation.Infrastructure\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.deps.json
+C:\Users\Decadev\Desktop\Staycation\Staycation.Infrastructure\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.dll
+C:\Users\Decadev\Desktop\Staycation\Staycation.Infrastructure\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.pdb
+C:\Users\Decadev\Desktop\Staycation\Staycation.Infrastructure\bin\Debug\netcoreapp3.1\Staycation.Domian.dll
+C:\Users\Decadev\Desktop\Staycation\Staycation.Infrastructure\bin\Debug\netcoreapp3.1\Staycation.Domian.pdb
+C:\Users\Decadev\Desktop\Staycation\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Decadev\Desktop\Staycation\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decadev\Desktop\Staycation\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Decadev\Desktop\Staycation\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.AssemblyInfo.cs
+C:\Users\Decadev\Desktop\Staycation\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Decadev\Desktop\Staycation\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.csproj.CopyComplete
+C:\Users\Decadev\Desktop\Staycation\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.dll
+C:\Users\Decadev\Desktop\Staycation\Staycation.Infrastructure\obj\Debug\netcoreapp3.1\Staycation.Infrastructure.pdb

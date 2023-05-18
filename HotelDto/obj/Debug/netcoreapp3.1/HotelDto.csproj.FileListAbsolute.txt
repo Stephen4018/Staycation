@@ -1,0 +1,30 @@
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelDto\bin\Debug\netcoreapp3.1\HotelDto.deps.json
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelDto\bin\Debug\netcoreapp3.1\HotelDto.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelDto\bin\Debug\netcoreapp3.1\HotelDto.pdb
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.pdb
+C:\Users\Decagon\Desktop\reference MVC\HotelDto\bin\Debug\netcoreapp3.1\HotelDto.deps.json
+C:\Users\Decagon\Desktop\reference MVC\HotelDto\bin\Debug\netcoreapp3.1\HotelDto.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelDto\bin\Debug\netcoreapp3.1\HotelDto.pdb
+C:\Users\Decagon\Desktop\reference MVC\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\reference MVC\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\reference MVC\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\reference MVC\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\reference MVC\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\reference MVC\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.pdb
+C:\Users\Decadev\Desktop\Staycation\HotelDto\bin\Debug\netcoreapp3.1\HotelDto.deps.json
+C:\Users\Decadev\Desktop\Staycation\HotelDto\bin\Debug\netcoreapp3.1\HotelDto.dll
+C:\Users\Decadev\Desktop\Staycation\HotelDto\bin\Debug\netcoreapp3.1\HotelDto.pdb
+C:\Users\Decadev\Desktop\Staycation\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.csproj.AssemblyReference.cache
+C:\Users\Decadev\Desktop\Staycation\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decadev\Desktop\Staycation\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.AssemblyInfoInputs.cache
+C:\Users\Decadev\Desktop\Staycation\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.AssemblyInfo.cs
+C:\Users\Decadev\Desktop\Staycation\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.csproj.CoreCompileInputs.cache
+C:\Users\Decadev\Desktop\Staycation\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.dll
+C:\Users\Decadev\Desktop\Staycation\HotelDto\obj\Debug\netcoreapp3.1\HotelDto.pdb

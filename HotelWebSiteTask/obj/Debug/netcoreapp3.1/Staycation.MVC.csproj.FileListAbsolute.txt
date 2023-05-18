@@ -1,0 +1,532 @@
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.exe
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.deps.json
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.runtimeconfig.dev.json
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.pdb
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.Views.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.Views.pdb
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.RazorAssemblyInfo.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.RazorAssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\staticwebassets\Staycation.MVC.StaticWebAssets.Manifest.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.TagHelpers.input.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.TagHelpers.output.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.RazorCoreGenerate.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.RazorTargetAssemblyInfo.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.RazorTargetAssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.Views.pdb
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.pdb
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.csproj.CopyComplete
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\HotelDto.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.Core.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.Domian.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.Core.pdb
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\HotelDto.pdb
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.Domian.pdb
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.pdb
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\EasyEncryption.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\IKVM.Java.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\IKVM.Reflection.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\IKVM.Runtime.JNI.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\IKVM.Runtime.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Threading.AccessControl.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libikvm-native.so
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\ikvm-native.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\ikvm-native.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\freebsd\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Authentication\Login.cshtml.g.cs
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Authentication\Register.cshtml.g.cs
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\HotelWebSiteTask\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.exe
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.deps.json
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.runtimeconfig.json
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.runtimeconfig.dev.json
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.pdb
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.Views.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.Views.pdb
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\EasyEncryption.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\IKVM.Java.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\IKVM.Reflection.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\IKVM.Runtime.JNI.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\IKVM.Runtime.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Threading.AccessControl.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libikvm-native.so
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\ikvm-native.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\ikvm-native.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\freebsd\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\HotelDto.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.Core.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.Domian.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.Core.pdb
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\HotelDto.pdb
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.Domian.pdb
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.pdb
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.RazorAssemblyInfo.cache
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.RazorAssemblyInfo.cs
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\staticwebassets\Staycation.MVC.StaticWebAssets.Manifest.cache
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\staticwebassets\Staycation.MVC.StaticWebAssets.Pack.cache
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Staycation.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Staycation.MVC.props
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Staycation.MVC.props
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Staycation.MVC.props
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.TagHelpers.input.cache
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.TagHelpers.output.cache
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.RazorCoreGenerate.cache
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Authentication\Login.cshtml.g.cs
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Authentication\Register.cshtml.g.cs
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.Views.pdb
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.csproj.CopyComplete
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.dll
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.pdb
+C:\Users\Decagon\Desktop\reference MVC\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.genruntimeconfig.cache
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.exe
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.deps.json
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.runtimeconfig.json
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.runtimeconfig.dev.json
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.pdb
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.Views.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.MVC.Views.pdb
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\EasyEncryption.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\IKVM.Java.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\IKVM.Reflection.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\IKVM.Runtime.JNI.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\IKVM.Runtime.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Threading.AccessControl.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libikvm-native.so
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\ikvm-native.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\ikvm-native.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\freebsd\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\HotelDto.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.Core.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.Domian.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.Core.pdb
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\HotelDto.pdb
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.Domian.pdb
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.pdb
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.csproj.AssemblyReference.cache
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.AssemblyInfoInputs.cache
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.AssemblyInfo.cs
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.RazorAssemblyInfo.cache
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.RazorAssemblyInfo.cs
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\staticwebassets\Staycation.MVC.StaticWebAssets.Manifest.cache
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\staticwebassets\Staycation.MVC.StaticWebAssets.Pack.cache
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Staycation.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Staycation.MVC.props
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Staycation.MVC.props
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Staycation.MVC.props
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.TagHelpers.input.cache
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.TagHelpers.output.cache
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.RazorCoreGenerate.cache
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Authentication\Login.cshtml.g.cs
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Authentication\Register.cshtml.g.cs
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.Views.pdb
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.csproj.CopyComplete
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.dll
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.pdb
+C:\Users\Decadev\Desktop\Staycation\HotelWebSiteTask\obj\Debug\netcoreapp3.1\Staycation.MVC.genruntimeconfig.cache

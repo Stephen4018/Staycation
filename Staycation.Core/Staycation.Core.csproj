@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="EasyEncryption" Version="1.0.2" />
+    <PackageReference Include="IKVM" Version="8.2.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HotelDto\HotelDto.csproj" />
+    <ProjectReference Include="..\Staycation.Infrastructure\Staycation.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

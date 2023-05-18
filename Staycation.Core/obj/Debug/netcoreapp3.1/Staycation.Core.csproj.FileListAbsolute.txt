@@ -1,0 +1,51 @@
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Core.deps.json
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Core.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Core.pdb
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.pdb
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Core\bin\Debug\netcoreapp3.1\HotelDto.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Domian.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.dll
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Core\bin\Debug\netcoreapp3.1\HotelDto.pdb
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Domian.pdb
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.pdb
+C:\Users\hp\OneDrive\Desktop\Week-6-Task\week-6-task-ogbeidebest\HotelWebSiteTask\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.csproj.CopyComplete
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Core.deps.json
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Core.dll
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Core.pdb
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Core\bin\Debug\netcoreapp3.1\HotelDto.dll
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Domian.dll
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.dll
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Core\bin\Debug\netcoreapp3.1\HotelDto.pdb
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.pdb
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Domian.pdb
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.csproj.CopyComplete
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.dll
+C:\Users\Decagon\Desktop\reference MVC\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.pdb
+C:\Users\Decadev\Desktop\Staycation\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Core.deps.json
+C:\Users\Decadev\Desktop\Staycation\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Core.dll
+C:\Users\Decadev\Desktop\Staycation\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Core.pdb
+C:\Users\Decadev\Desktop\Staycation\Staycation.Core\bin\Debug\netcoreapp3.1\HotelDto.dll
+C:\Users\Decadev\Desktop\Staycation\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Domian.dll
+C:\Users\Decadev\Desktop\Staycation\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.dll
+C:\Users\Decadev\Desktop\Staycation\Staycation.Core\bin\Debug\netcoreapp3.1\HotelDto.pdb
+C:\Users\Decadev\Desktop\Staycation\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Infrastructure.pdb
+C:\Users\Decadev\Desktop\Staycation\Staycation.Core\bin\Debug\netcoreapp3.1\Staycation.Domian.pdb
+C:\Users\Decadev\Desktop\Staycation\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.csproj.AssemblyReference.cache
+C:\Users\Decadev\Desktop\Staycation\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decadev\Desktop\Staycation\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.AssemblyInfoInputs.cache
+C:\Users\Decadev\Desktop\Staycation\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.AssemblyInfo.cs
+C:\Users\Decadev\Desktop\Staycation\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.csproj.CoreCompileInputs.cache
+C:\Users\Decadev\Desktop\Staycation\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.csproj.CopyComplete
+C:\Users\Decadev\Desktop\Staycation\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.dll
+C:\Users\Decadev\Desktop\Staycation\Staycation.Core\obj\Debug\netcoreapp3.1\Staycation.Core.pdb
