@@ -32,6 +32,7 @@ namespace Staycation.Infrastructure.Repository
         {
             string fileLocation = Path.Combine(_dataStoreLocation, "Hotel.json");
             AllHotelList = await _jsonHelper.Reader<List<HotelMotel>>(fileLocation);
+
             return AllHotelList;
         }
 

@@ -60,7 +60,7 @@ namespace Staycation.MVC.Controllers
         {
             if (user.RetypePassword != user.Password)
             {
-                ModelState.AddModelError("RetypePassword", "the Password those not match");
+                ModelState.AddModelError("RetypePassword", "the Password does not match");
             }
             if (ModelState.IsValid)
             {
