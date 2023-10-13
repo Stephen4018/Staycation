@@ -41,7 +41,7 @@ namespace Staycation.MVC.Controllers
                  }
             }
 
-            ModelState.AddModelError("Email", "this record  doesnt exist in the data base");
+            ModelState.AddModelError("Email", "this record  does not exist in the data base");
             return View(user);
         }
         public IActionResult Logout()
